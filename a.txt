@@ -15,3 +15,5 @@ kolejne dev2 ficzersy zeby sie pobawic interactive rebasem
 zmiana1
 zmiana2
 zmiana3
+
+nowa zmiana po usunietym sluzbowym
