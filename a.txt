@@ -2,3 +2,7 @@ This is file a
 New lines
 collab b
 git clean
+git reset
+git reset2
+git reset3
+git reset4
