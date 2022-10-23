@@ -12,3 +12,6 @@ som najs ficzers
 
 dev2 ficzers
 kolejne dev2 ficzersy zeby sie pobawic interactive rebasem
+zmiana1
+zmiana2
+zmiana3
