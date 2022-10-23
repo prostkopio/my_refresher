@@ -1,1 +1,2 @@
 This is file C
+New line in C
