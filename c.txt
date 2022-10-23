@@ -1,2 +1,3 @@
 This is file C
 New line in C
+New line2 in C
