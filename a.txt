@@ -17,3 +17,4 @@ zmiana2
 zmiana3
 
 nowa zmiana po usunietym sluzbowym
+2nowa zmiana po usunietym sluzbowym
