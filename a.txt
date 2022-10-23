@@ -11,3 +11,4 @@ sluzbowy
 som najs ficzers
 
 dev2 ficzers
+kolejne dev2 ficzersy zeby sie pobawic interactive rebasem
