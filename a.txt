@@ -9,3 +9,5 @@ git reset4
 Piotrek komp changes
 sluzbowy
 som najs ficzers
+
+dev2 ficzers
