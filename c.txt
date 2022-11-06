@@ -1,4 +1,4 @@
 This is file C
 New line in C
-coolio
+I've notice a bug just here
 New line2 in C
