@@ -1,5 +1,9 @@
 This is file a
 New lines
 collab b
-
 dev1 changes only
+git clean
+git reset
+git reset2
+git reset3
+git reset4
