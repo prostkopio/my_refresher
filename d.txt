@@ -1,1 +1,2 @@
-one new file d
+one file d - ups this was a bug
+some najs new ficzers for PR
